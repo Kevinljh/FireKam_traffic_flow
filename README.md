@@ -1,7 +1,8 @@
 # FireKam_traffic_flow
+![alt tag](https://github.com/Kevinljh/FireKam_traffic_flow/blob/master/firekam3.png)
 ![alt tag](https://github.com/Kevinljh/FireKam_traffic_flow/blob/master/firekam2.png)
 ![alt tag](https://github.com/Kevinljh/FireKam_traffic_flow/blob/master/firekam1.png)
-![alt tag](https://github.com/Kevinljh/FireKam_traffic_flow/blob/master/firekam3.png)
+
 1.1 Purpose
 The purpose of this document is to give a detailed, itemized description of the FireKam Traffic Trend system functionality. The System is intended to give users immediate information about the surrounding environment.
 
